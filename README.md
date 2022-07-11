@@ -4,4 +4,11 @@ Speak Easily is an online space for group therapy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# speakeasily
+
+# Architecture
+...
+
+# Dependencies to keep track of
+...
+
+# Contributors
