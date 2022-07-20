@@ -14,7 +14,7 @@ function App() {
                     href="https://getmegiddy.com/"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Learn More
+                    developed by Giddy Holdings, Inc.
                 </a>
             </header>
         </div>
